@@ -1,0 +1,8 @@
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\bin\Debug\ConsoleAppJarray.exe.config
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\bin\Debug\ConsoleAppJarray.exe
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\bin\Debug\ConsoleAppJarray.pdb
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\obj\Debug\ConsoleAppJarray.csproj.AssemblyReference.cache
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\obj\Debug\ConsoleAppJarray.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\obj\Debug\ConsoleAppJarray.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\obj\Debug\ConsoleAppJarray.exe
+D:\simplilearn\day-5\ConsoleAppJarray\ConsoleAppJarray\obj\Debug\ConsoleAppJarray.pdb
